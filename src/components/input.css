@@ -1,0 +1,38 @@
+ .form-group {
+      position: relative;
+      width: 300px;
+      margin-top: 34px;
+      margin-bottom: 29px;
+    }
+
+    .form-label {
+      position: absolute;
+      top: -12px;
+      left: 12px;
+      background: #f9fafb;
+      padding: 0 5px;
+      font-size: 13px;
+      color: #6C25FF; 
+      
+    }
+
+    .form-label span {
+      color: red; 
+    }
+
+    .form-input {
+        padding: 10px;
+        background: #f9fafb;
+      width: 335px;
+height: 40px;
+/* UI Properties */
+border: 1px solid #CBCBCB;
+border-radius: 6px;
+      font-size: 16px;
+ 
+    }
+
+    .form-input:focus {
+      border-color: #7e3ff2;
+      box-shadow: 0 0 3px rgba(126, 63, 242, 0.5);
+    }

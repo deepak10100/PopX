@@ -1,0 +1,11 @@
+.bg-color {
+    border: none;
+    margin-top: 10px;
+    background: #6C25FF;
+    border-radius: 6px;
+    width: 335px;
+    height: 46px;
+    color: #FFFFFF;
+    font-weight: 500;
+    cursor: pointer;
+}

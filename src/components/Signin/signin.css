@@ -1,0 +1,16 @@
+.form-m{
+    margin-top: 14px;
+}
+.bg-primary{
+    background-color: #CBCBCB;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 10px;
+   
+    border-radius: 6px;
+    width: 335px;
+    height: 46px;
+   
+    font-weight: 500;
+    cursor: pointer;
+}
